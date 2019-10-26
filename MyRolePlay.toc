@@ -1,0 +1,52 @@
+## Interface: 80205
+## Title: MyRolePlay
+## Version: 8.2.5.445
+## Notes: Share and create roleplaying profiles.
+## Author: Etarna Moonshyne <etarna@moonshyne.org>, Katorie <katorahooves@gmail.com>, Daniel "Meorawr" Yates <me@meorawr.io>
+## SavedVariables: mrpNotes, mrpLastViewedChangeLogBuild
+## SavedVariablesPerCharacter: mrpSaved
+## X-Category: Roleplay
+## X-License: GPLv3
+## X-Client: Mainline
+
+Libs\LibStub\LibStub.lua
+Libs\LibRPMedia-1.0\LibRPMedia-1.0.xml
+Libs\LibMSP\LibMSP.xml
+Libs\BlueBugs\BlueBugs.xml
+
+MyRolePlay.lua
+Locale.lua
+Locale_enGB.lua
+Locale_enUS.lua
+Locale_itIT.lua
+Locale_frFR.lua
+Options.lua
+Profile.lua
+Utilities.lua
+FormChange.lua
+TRP_data_iconList.lua
+TRP_data_imageList.lua
+UI_IconSelector.lua
+UI_MusicSelector.lua
+UI_ImageSelector.lua
+EquipSet.lua
+Predictive.lua
+Exchange.lua
+ID.lua
+Update.lua
+UI_Display.lua
+UI_Editor.lua
+UI_EditFrames.lua
+UI_Tab.lua
+UI_Browser.lua
+UI_GlancePreview.lua
+UI_PrivateNotes.lua
+UI_Tooltip.lua
+UI_Button.lua
+UI_Target.lua
+UI_Options.lua
+UI_ChangeLog.lua
+ChatName.lua
+Chat.lua
+Command.lua
+Init.lua
